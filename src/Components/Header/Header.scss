@@ -1,12 +1,12 @@
-.header{
+.header {
     background-color: black;
     border-bottom: 1px solid rgba(252, 163, 17, .5);
     -webkit-background-clip: padding-box;
-    /* for Safari */
     background-clip: padding-box;
+
 }
 
-.header_container{
+.header_container {
     background-color: black;
     text-align: center;
     padding-top: 10px;
@@ -15,15 +15,20 @@
     font-size: 12px;
 
 
-    
+
 }
 
-.header_info{
+.header_info {
     color: white;
     margin: 10px;
 }
 
-.header_value{
+.header_value {
     background-color: transparent;
     color: #fca311;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
