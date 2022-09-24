@@ -14,7 +14,7 @@ const responsive = {
         breakpoint: { max: 3000, min: 1250 },
         items: 4
     },
-    bestia: {
+    dektop2: {
         breakpoint: { max: 1250, min: 1024 },
         items: 3
     },
