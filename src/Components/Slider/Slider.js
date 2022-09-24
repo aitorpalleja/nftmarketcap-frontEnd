@@ -11,8 +11,12 @@ const responsive = {
         items: 4
     },
     desktop: {
-        breakpoint: { max: 3000, min: 1024 },
+        breakpoint: { max: 3000, min: 1250 },
         items: 4
+    },
+    bestia: {
+        breakpoint: { max: 1250, min: 1024 },
+        items: 3
     },
     tablet: {
         breakpoint: { max: 1024, min: 464 },
