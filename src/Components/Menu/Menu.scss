@@ -9,7 +9,6 @@
     margin: auto;
 }
 
-// IMPORTANT
 .nav {
     position: sticky;
     display: flex;
@@ -19,12 +18,11 @@
     top: 0;
 }
 
-// DEMO LAYOUT CODE
 .nav {
     background: black;
 
     &__title {
-        margin: 0px 30px;
+        margin-left: 30px;
     }
 
     &__item {

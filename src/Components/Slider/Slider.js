@@ -27,6 +27,8 @@ const responsive = {
 function Slider() {
     return (
         <div className='slider'>
+            <div className='slider_title'>TOP </div>
+
             <Carousel responsive={responsive}>
                 <div className='slider_div'> </div>
                 <div className='slider_div'> </div>
