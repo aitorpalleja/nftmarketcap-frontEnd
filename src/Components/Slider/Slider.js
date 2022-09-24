@@ -4,7 +4,6 @@ import '../Slider/Slider.scss'
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
-import jikan from '../../assets/1.png'
 
 const responsive = {
     superLargeDesktop: {
