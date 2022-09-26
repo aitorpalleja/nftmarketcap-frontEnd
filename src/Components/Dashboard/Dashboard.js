@@ -63,6 +63,258 @@ function Dashboard() {
                             <td>7000</td>
                         </tr>
 
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
+                        <tr>
+                            <td>1</td>
+                            <td className='dashboard_name'>Jotun Labs</td>
+                            <td>200</td>
+                            <td>10</td>
+                            <td>20</td>
+                            <td>40000</td>
+                            <td>1000</td>
+                            <td>4000</td>
+                            <td>1000000</td>
+                            <td>200/5000</td>
+                            <td>7000</td>
+                        </tr>
+
                     </tbody>
                 </table>
 
