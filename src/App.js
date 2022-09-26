@@ -1,4 +1,5 @@
 import './App.css';
+import Dashboard from './Components/Dashboard/Dashboard';
 import Header from './Components/Header/Header';
 import InfoCard from './Components/InfoCard/InfoCard';
 import Menu from './Components/Menu/Menu'
@@ -11,6 +12,7 @@ function App() {
       <Menu></Menu>
       <Slider></Slider>
       <InfoCard></InfoCard>
+      <Dashboard></Dashboard>
     </div>
   );
 }

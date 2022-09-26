@@ -1,0 +1,29 @@
+.dashboard {
+    color: white;
+    max-width: 1400px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.dashboard_container {
+
+    margin-left: 30px;
+}
+
+table, td, th {
+    border-bottom: 1px solid rgba(252, 163, 17, 0.295);
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+  
+  td {
+    height: 50px;
+    vertical-align: center;
+    text-align: center;
+  }
+
