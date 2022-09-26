@@ -6,7 +6,7 @@ function Dashboard() {
         <div className='dashboard'>
             <div className="dashboard_container">
                 <table className='dasboard_table'>
-                    <thead className='dasboard_title'>
+                    <thead>
                         <tr >
                             <th>#</th>
                             <th>Name</th>
