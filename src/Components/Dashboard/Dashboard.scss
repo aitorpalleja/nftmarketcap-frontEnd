@@ -8,29 +8,35 @@
 .dashboard_container {
 
     margin-left: 30px;
-    overflow-x:auto;
+    overflow-x: auto;
 }
+
 thead {
-    background-color: rgba(252, 163, 17, 0.5);
     height: 50px;
+
 }
 
 table,
 td,
 th {
     border-bottom: 1px solid rgba(252, 163, 17, 0.15);
-    background-color: rgba(20, 33, 61, 0.2);
     padding-left: 20px;
     padding-right: 20px;
+}
+
+th{
+    background-color: rgba(252, 163, 17);
+}
+
+table,
+td {
+    background-color: rgba(20, 33, 61);
 }
 
 table {
     border-collapse: collapse;
     width: 1370px;
-    table-layout:auto;
-
-
-
+    table-layout: auto;
 }
 
 td {
@@ -39,20 +45,18 @@ td {
     text-align: center;
 }
 
-th.dashboard_name{
+th.dashboard_name {
     position: sticky !important;
     left: 0px;
     opacity: 1;
-    background-color: rgba(252, 163, 17, 1);
 
 
 }
 
-td.dashboard_name{
+td.dashboard_name {
     position: sticky !important;
     left: 0px;
     opacity: 1;
-    background-color: rgba(20, 33, 61, 1);
 
 
 }
